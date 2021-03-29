@@ -535,7 +535,7 @@ p {
     flex: 0 1 100%; }
 
 .hero {
-  background-image: url(../../img/hero__bg.svg);
+  background-image: url(../img/hero__bg.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -569,7 +569,7 @@ p {
 
 .differences {
   position: relative;
-  background-image: url(../../img/best__body.png), url(../../img/differences.png);
+  background-image: url(../img/best__body.png), url(../img/differences.png);
   background-position: center, center top;
   background-repeat: no-repeat;
   background-size: 65%,cover;
@@ -664,7 +664,7 @@ p {
     margin-left: 10px; }
 
 .reviews {
-  background-image: url(../../img/delivery__bg.png);
+  background-image: url(../img/delivery__bg.png);
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -730,7 +730,7 @@ p {
   margin-left: 5px; }
 
 .footer {
-  background-image: url(../../img/delivery__bg.png);
+  background-image: url(../img/delivery__bg.png);
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -868,11 +868,11 @@ p {
 
 .slider-for .slick-arrow.slick-prev {
   left: 0;
-  background: url("../../img/slider/prev.svg") 0 0/100% no-repeat; }
+  background: url("../img/slider/prev.svg") 0 0/100% no-repeat; }
 
 .slider-for .slick-arrow.slick-next {
   right: 0;
-  background: url("../../img/slider/next.svg") 0 0/100% no-repeat; }
+  background: url("../img/slider/next.svg") 0 0/100% no-repeat; }
 
 .slider-reviews .slick-arrow.slick-prev {
   left: 55.992px;
