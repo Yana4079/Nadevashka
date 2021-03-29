@@ -1,0 +1,23 @@
+.btn {
+   color: $wt;
+   padding: 1.1666em 1.7555em;
+   @include fFS(14px, 14px, 320px, 400px, 14px);
+   font-weight: 800;
+   line-height: 0.8333rem;
+   width: 80%;
+   border-radius: 3px;
+   &__wb {
+   background: $btn-wb;
+   }
+}
+
+.slider__btn {
+    text-align: center;
+    margin-top: 1.8333rem;
+}
+.slider__btn a {
+width: 100%;
+line-height: 1.3rem;
+padding: 1em 0 !important;
+font-size: 1rem;
+}
