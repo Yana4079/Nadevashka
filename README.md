@@ -1,4 +1,4 @@
-# nadevashka
+# Nadevashka
  <h1>landing page for nadevashka mobile version</h1>
  <br>
   <p>Проект лендинга для детской одежды надевашка в мобильной версии</p>
